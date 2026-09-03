@@ -46,3 +46,28 @@ Final cleaned dataset:
 - 0 duplicate records
 - 0 negative demand values
 - 0 negative duration values
+
+### Day 3 - Data Transformation & Analytics
+
+- Created analytics transformation pipeline
+- Generated hourly charging metrics
+- Generated daily charging metrics
+- Generated location-level metrics
+- Generated charger-level metrics
+- Generated user-level metrics
+- Generated peak vs non-peak metrics
+- Generated monthly charging metrics
+- Added analytics validation checks
+- Validated session and demand totals across analytics tables
+
+Final analytics datasets:
+
+- 7 analytics tables generated
+- 72,826 charging sessions preserved
+- 1,270,112.1 kWh total demand preserved
+- 0 missing values
+- 0 duplicate records
+- 2,118 valid chargers
+- 2,337 users
+- 14 locations
+- Analytics CSV files added to `.gitignore`
