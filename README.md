@@ -71,3 +71,23 @@ Final analytics datasets:
 - 2,337 users
 - 14 locations
 - Analytics CSV files added to `.gitignore`
+
+### Day 4 - Analytics & Business Insights
+
+- Built business insights analysis script
+- Identified busiest charging hours
+- Analyzed charging demand by location
+- Analyzed charger utilization
+- Compared peak and non-peak charging behavior
+- Analyzed monthly charging trends
+- Analyzed user charging behavior
+- Identified high-activity users and potential data anomalies
+
+Key insights:
+
+- 18:00 was the busiest charging hour with 6,506 sessions
+- Apartment had the highest total demand at 263,103.12 kWh
+- Peak hours recorded 27,104 sessions
+- Peak average demand was 19.59 kWh per session
+- August 2022 had the highest activity with 8,083 sessions
+- UserID 0 was identified as a significant usage outlier with 31,553 sessionss
