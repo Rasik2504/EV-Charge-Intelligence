@@ -90,4 +90,4 @@ Key insights:
 - Peak hours recorded 27,104 sessions
 - Peak average demand was 19.59 kWh per session
 - August 2022 had the highest activity with 8,083 sessions
-- UserID 0 was identified as a significant usage outlier with 31,553 sessionss
+- UserID 0 was identified as a significant usage outlier with 31,553 sessionss.
