@@ -91,3 +91,31 @@ Key insights:
 - Peak average demand was 19.59 kWh per session
 - August 2022 had the highest activity with 8,083 sessions
 - UserID 0 was identified as a significant usage outlier with 31,553 sessionss.
+
+### Day 5 - Data Visualization
+
+* Created EV charging data visualization script
+
+* Generated hourly charging sessions chart
+
+* Generated location-wise charging demand chart
+
+* Generated monthly charging demand trend
+
+* Generated peak vs non-peak demand comparison
+
+* Used Matplotlib for data visualization
+
+* Saved generated charts in the analytics directory
+
+Key insights:
+
+* 18:00 was the busiest charging hour with 6,506 sessions
+
+* Apartment had the highest total demand at 263,103.12 kWh
+
+* August 2022 had the highest monthly demand at 143,041.27 kWh
+
+* Peak hours had a higher average demand of 19.59 kWh per session
+
+* Non-peak hours had an average demand of 16.17 kWh per session
